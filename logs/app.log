@@ -1,0 +1,86 @@
+{"error":{},"level":"error","message":"uncaughtException: app.use() requires a middleware function\nTypeError: app.use() requires a middleware function\n    at Function.use (C:\\DevProjects\\metro.digital.homework\\server\\node_modules\\express\\lib\\application.js:210:11)\n    at Object.<anonymous> (C:\\DevProjects\\metro.digital.homework\\server\\app.js:13:5)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Module.require (internal/modules/cjs/loader.js:952:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at Object.<anonymous> (C:\\DevProjects\\metro.digital.homework\\server\\bin\\www:7:13)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)","stack":"TypeError: app.use() requires a middleware function\n    at Function.use (C:\\DevProjects\\metro.digital.homework\\server\\node_modules\\express\\lib\\application.js:210:11)\n    at Object.<anonymous> (C:\\DevProjects\\metro.digital.homework\\server\\app.js:13:5)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Module.require (internal/modules/cjs/loader.js:952:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at Object.<anonymous> (C:\\DevProjects\\metro.digital.homework\\server\\bin\\www:7:13)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)","exception":true,"date":"Fri Mar 26 2021 22:16:06 GMT+0200 (Eastern European Standard Time)","process":{"pid":8784,"uid":null,"gid":null,"cwd":"C:\\DevProjects\\metro.digital.homework\\server","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v14.15.1","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\DevProjects\\metro.digital.homework\\server\\bin\\www"],"memoryUsage":{"rss":43954176,"heapTotal":29556736,"heapUsed":13585176,"external":1713602,"arrayBuffers":406835}},"os":{"loadavg":[0,0,0],"uptime":49055},"trace":[{"column":11,"file":"C:\\DevProjects\\metro.digital.homework\\server\\node_modules\\express\\lib\\application.js","function":"Function.use","line":210,"method":"use","native":false},{"column":5,"file":"C:\\DevProjects\\metro.digital.homework\\server\\app.js","function":null,"line":13,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1063,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1092,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":928,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":769,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":952,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":88,"method":null,"native":false},{"column":13,"file":"C:\\DevProjects\\metro.digital.homework\\server\\bin\\www","function":null,"line":7,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1063,"method":"_compile","native":false}]}
+{"message":"/api/logger/update - Updating the logger","level":"info"}
+{"message":"/api/logger/update - Updating the logger","level":"info"}
+{"message":"/api/logger/update - Updating the logger","level":"info"}
+{"message":"Logger level has been set to: debug","level":"debug"}
+info: /api/logger/update - Updating the logger
+debug: Logger level has been set to debug
+undefined
+debug: Logger level has been set to debug {"timestamp":"2021-03-26T21:01:29.245Z"}
+debug: Logger level has been set to debug
+debug: Logger level has been set to debug {"timestamp":"2021-03-26 23:04:43"}
+undefined undefined [debug]: Logger level has been set to debug
+March 26, 2021 11:06 PM 11:06:42 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:07 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:07 PM [info]: /api/logger/update - Updating the logger
+March 26, 2021 11:08 PM [info]: /api/logger/update - Updating the logger
+March 26, 2021 11:08 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:08 PM [info]: /api/logger/update - Updating the logger
+March 26, 2021 11:09 PM [info]: /api/logger/update
+March 26, 2021 11:09 PM [info]: /api/logger/update
+March 26, 2021 11:09 PM [info]: /api/logger/update
+March 26, 2021 11:09 PM [info]: /api/logger/update
+March 26, 2021 11:09 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:10 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:11 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:12 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:12 PM [info]: /api/logger/update
+March 26, 2021 11:13 PM [error]: The city Europe/Dublin is not valid.
+March 26, 2021 11:14 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:14 PM [info]: /api/timezone/update
+March 26, 2021 11:14 PM [debug]: Timezone has been set to Europe/Paris
+March 26, 2021 11:14 PM [info]: /api/timezone/update
+March 26, 2021 11:14 PM [debug]: Timezone has been set to Europe/Berlin
+March 26, 2021 11:15 PM [info]: /api/timezone/update
+March 26, 2021 11:15 PM [debug]: Timezone has been set to Europe/Istanbul
+March 26, 2021 11:15 PM [info]: /api/timezone/update
+March 26, 2021 11:15 PM [debug]: Timezone has been set to Europe/Moscow
+March 26, 2021 11:16 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:16 PM [info]: /api/timezone/update
+March 26, 2021 11:16 PM [debug]: Timezone has been set to Europe/Moscow with computed date March 27, 2021 12:16:28 AM.
+March 26, 2021 11:17 PM [info]: /api/timezone/update
+March 26, 2021 11:17 PM [debug]: Timezone has been set to Europe/Paris with computed date March 26, 2021 10:17:00 PM.
+March 26, 2021 11:17 PM [info]: /api/logger/update
+March 26, 2021 11:25 PM [error]: The server has started on port 5000
+March 26, 2021 11:36 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:36 PM [info]: /api/logger/update
+March 26, 2021 11:36 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:36 PM [info]: /api/logger/update
+March 26, 2021 11:36 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:36 PM [info]: /api/logger/update
+March 26, 2021 11:36 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:36 PM [info]: /api/logger/update
+March 26, 2021 11:36 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:37 PM [info]: /api/logger/update
+March 26, 2021 11:37 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:37 PM [info]: /api/logger/update
+March 26, 2021 11:37 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:37 PM [info]: /api/logger/update
+March 26, 2021 11:37 PM [debug]: Logger level has been set to debug
+March 26, 2021 11:59 PM [info]: /api/logger/update
+March 26, 2021 11:59 PM [error]: The city Europe/FASwewq is not valid.
+March 27, 2021 12:00 AM [error]: The city Europe/DSAdw is not valid.
